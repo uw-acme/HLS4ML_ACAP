@@ -1,3 +1,3 @@
-# NAME-of-REPO
+# HLS4ML_ACAP
 
-Blah.. blah.. blah
+Add description
